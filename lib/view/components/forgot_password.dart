@@ -8,7 +8,7 @@ class ForgotPassword extends StatelessWidget {
       child: Padding(
         padding: const EdgeInsets.only(top: 610),
         child: Text(
-          "I forgot my pasword.",
+          "I forgot my password.",
           style: Theme.of(context).textTheme.bodyText2,
         ),
       ),
